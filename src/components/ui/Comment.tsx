@@ -18,7 +18,7 @@ const Comments = () => {
           repo="mrliyaya/astro_blog"
           repoId="R_kgDOOCP61g"
           category="Announcements"
-          categoryId="DIC_kwDOOCP61s4Cngc7"
+          categoryId="DIC_kwDOOCP61s4Cngc6"
           mapping="title"
           reactionsEnabled="1"
           emitMetadata="0"
